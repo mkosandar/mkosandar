@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fillustration%2Fdevops-banner.html&psig=AOvVaw2fvICHuJ0E9Z2DQRFrchQZ&ust=1761132007256000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOig-5CWtZADFQAAAAAdAAAAABAE" alt="DevOps Banner" width="100%">
+  <img src="https://drive.google.com/file/d/1Y9kUes19oJMZ8-i3mEd4c84iFdz9Mq_V/view?usp=drive_link" alt="DevOps Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Mayuresh Kosandar</h1>
