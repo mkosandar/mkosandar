@@ -86,7 +86,7 @@
   <a href="https://www.linkedin.com/in/mayuresh-kosandar-630859202" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mayuresh%20Kosandar-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:mayureshkosandar@gmail.com">
+  <a href="mailto:mayureshkosandarwork@gmail.com">
     <img src="https://img.shields.io/badge/Email-mayureshkosandar%40gmail.com-orange?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/mkosandar" target="_blank">
