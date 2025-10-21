@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mkosandar/mkosandar/main/assets/devops-banner.png" alt="DevOps Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/mkosandar/mkosandar/main/devops-banner.png" alt="DevOps Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Mayuresh Kosandar</h1>
