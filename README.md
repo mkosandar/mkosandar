@@ -4,21 +4,21 @@
 -->
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1Y9kUes19oJMZ8-i3mEd4c84iFdz9Mq_V/view?usp=drive_link" alt="DevOps Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/mkosandar/mkosandar/main/assets/devops-banner.png" alt="DevOps Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Mayuresh Kosandar</h1>
-<h3 align="center">🚀 Senior DevOps Engineer | Cloud & Automation Enthusiast | Infrastructure as Code Specialist</h3>
+<h3 align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast | Infrastructure as Code Advocate</h3>
 
 ---
 
 ### 🧠 About Me
 
-- 💼 Experienced in **AWS, Kubernetes, Terraform, Jenkins, Docker, and CI/CD pipelines**  
-- 🏗️ Passionate about **building scalable, secure, and automated cloud infrastructures**  
-- 🧰 Skilled in **infrastructure as code, observability, and cost optimization**  
-- 🤖 Exploring **AI integrations, LLM infrastructure (Ollama, LangChain)**, and **HSM-based security automation**  
-- 🌱 Constantly learning & evolving in **DevOps, Cloud Security, and MLOps**
+- 💼 Experienced in **AWS, Kubernetes, Terraform, Jenkins, Docker, and CI/CD automation**  
+- 🏗️ Passionate about **building scalable, secure, and resilient cloud infrastructures**  
+- 🔐 Skilled in **HSM integration, encryption management, and secure DevOps practices**  
+- 🤖 Exploring **LLM infrastructure, AI-driven automation, and intelligent monitoring**  
+- 🌱 Continuously learning new tools to improve system reliability and developer velocity  
 
 ---
 
@@ -60,20 +60,22 @@
 
 ### ⚙️ Featured Projects
 
-- 🏗️ **ECS Infrastructure Automation with Terraform**
-  - Designed full AWS ECS (EC2 launch type) infrastructure with VPC, ECR, EFS, RDS, and CloudFront.
-- 🤖 **Ollama LLM Cluster**
-  - Deployed a scalable multi-user LLM serving platform with GPU optimization, Kubernetes, and NFS-backed storage.
-- 🔐 **HSM-Integrated CI/CD Security**
-  - Integrated **Luna Cloud HSM** with GnuPG and CodePipeline for signing and encryption.
+- 🏗️ **AWS ECS Infrastructure with Terraform**  
+  Designed and automated a full ECS (EC2 launch type) setup with VPC, ECR, EFS, RDS, and CloudFront.
+
+- 🤖 **Ollama LLM Cluster Deployment**  
+  Built a multi-user, GPU-optimized LLM serving platform using Kubernetes and NFS persistent volumes.
+
+- 🔐 **HSM-Backed CI/CD Security**  
+  Integrated **Luna Cloud HSM** for GnuPG signing and secure secret management in pipelines.
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayureshkosandar&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayureshkosandar&theme=radical" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mkosandar&show_icons=true&theme=tokyonight" height="150" alt="Mayuresh's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkosandar&theme=tokyonight" height="150" alt="Mayuresh's GitHub Streak"/>
 </p>
 
 ---
@@ -81,19 +83,19 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mayureshkosandar" target="_blank">
+  <a href="https://www.linkedin.com/in/mayuresh-kosandar-630859202" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mayuresh%20Kosandar-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:mayureshkosandar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-mayureshkosandar%40gmail.com-orange?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://github.com/mayureshkosandar">
-    <img src="https://img.shields.io/badge/GitHub-Mayuresh%20Kosandar-green?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/mkosandar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-mkosandar-green?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  💡 *“Automate everything, secure everything, and scale infinitely.”*  
+  💡 *"Automate everything. Secure everything. Scale infinitely."*
 </p>
