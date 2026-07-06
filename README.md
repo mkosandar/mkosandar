@@ -19,7 +19,8 @@
 - ⚡ Hands-on with the unglamorous parts that keep prod up: **zero-downtime deploys, autoscaling & spot-node strategy, JVM tuning, DB migrations (Flyway), secrets management**
 - 🌐 Re-platformed frontend delivery from Kubernetes to **S3 + CloudFront** with cache-safe multi-env pipelines
 - 🔐 Skilled in **HSM integration (Luna Cloud HSM), encryption management, and secure CI/CD practices**
-- 🤖 Exploring **LLM infrastructure, AI-driven automation, and intelligent monitoring**
+- 🤖 Built an **AI ops agent on Claude Code** — 17 custom skills (Kubernetes triage, AWS inspection, ArgoCD/GitOps, Jenkins, DB ops, bulk config toggles) with **RBAC-gated approvals** and MCP integrations (Jira, internal wiki)
+- 🧪 Exploring **LLM infrastructure (self-hosted Ollama clusters), AI-driven automation, and intelligent monitoring**
 
 ---
 
@@ -30,6 +31,7 @@ Open to **freelance & consulting engagements** (remote, part-time):
 - 🏗️ **CI/CD setup or migration** — Jenkins / GitHub Actions + ArgoCD GitOps, done right the first time
 - 🚦 **Kubernetes / EKS production-readiness audit** — probes, autoscaling, PDBs, zero-downtime rollouts
 - 💰 **AWS cost review** — right-sizing, spot strategy, and the quick wins most teams miss
+- 🤖 **AI-assisted DevOps enablement** — set up Claude Code / Codex agents for your infra team: runbooks turned into executable skills, with RBAC-style approval gates
 
 📩 Reach me: [mayureshkosandarwork@gmail.com](mailto:mayureshkosandarwork@gmail.com)
 
@@ -82,6 +84,15 @@ Open to **freelance & consulting engagements** (remote, part-time):
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="50" alt="Grafana"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" alt="Nginx"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="50" alt="SonarQube"/>
+</p>
+
+#### 🤖 **AI-Assisted Engineering**
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude%20Code-2E3440?style=flat-square&logo=claude&logoColor=orange" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-2E3440?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex"/>
+  <img src="https://img.shields.io/badge/MCP%20Integrations-2E3440?style=flat-square&logo=anthropic&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/Ollama%20Self--Hosted%20LLMs-2E3440?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Custom%20Agent%20Skills%20(17)-2E3440?style=flat-square&logo=githubcopilot&logoColor=lightblue" alt="Custom Agent Skills"/>
 </p>
 
 #### 🧰 **Also in my daily toolkit**
